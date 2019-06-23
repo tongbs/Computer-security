@@ -4,5 +4,6 @@ Implement some common attacks
 (Given DNS server's IP and victim's IP)
 - (Attacker)Fabricates a DNS query message with a UDP packet
 - (Victim)Use wireshark to check the victim receive DNS response
-- How to create IP Spoofing Packets?
-- Using Raw sockets
+----------------------------------------------------------------------------
+Q: How to create IP Spoofing Packets?
+A: Using Raw sockets
